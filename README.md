@@ -21,7 +21,7 @@
 
 **怎么用它搞钱**：提示词优化服务 / 教学 / 卖 prompt 资产包。
 
-**来源**：[linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) · ⭐41349 · 更新于 2026-11-13
+**来源**：[linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) · ⭐42501 · 更新于 2026-11-26
 
 ### PromptEnhancer
 
@@ -34,7 +34,7 @@
 
 **怎么用它搞钱**：分镜 / 关键帧代做服务 / 技术教学。
 
-**来源**：[Hunyuan-PromptEnhancer/PromptEnhancer](https://github.com/Hunyuan-PromptEnhancer/PromptEnhancer) · ⭐3805 · 更新于 2026-11-11
+**来源**：[Hunyuan-PromptEnhancer/PromptEnhancer](https://github.com/Hunyuan-PromptEnhancer/PromptEnhancer) · ⭐3809 · 更新于 2026-11-23
 
 ### seedance2-skill
 
@@ -47,7 +47,7 @@
 
 **怎么用它搞钱**：即梦商单 / 教学。
 
-**来源**：[dexhunter/seedance2-skill](https://github.com/dexhunter/seedance2-skill) · ⭐4469 · 更新于 2026-11-13
+**来源**：[dexhunter/seedance2-skill](https://github.com/dexhunter/seedance2-skill) · ⭐4581 · 更新于 2026-11-25
 
 ### IMGPrompt
 
@@ -60,7 +60,7 @@
 
 **怎么用它搞钱**：提示词代写 / 教学。
 
-**来源**：[rockbenben/img-prompt](https://github.com/rockbenben/img-prompt) · ⭐370 · 更新于 2026-11-04
+**来源**：[rockbenben/img-prompt](https://github.com/rockbenben/img-prompt) · ⭐375 · 更新于 2026-11-24
 
 ### Awesome Seedance 2.5 Prompts + Skill
 
@@ -73,7 +73,7 @@
 
 **怎么用它搞钱**：即梦商单。
 
-**来源**：[AtlasCloudAI/awesome-seedance-2.5-prompts-skills](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills) · ⭐267 · 更新于 2026-11-12
+**来源**：[AtlasCloudAI/awesome-seedance-2.5-prompts-skills](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills) · ⭐275 · 更新于 2026-11-23
 
 ### AI Video Generator — Claude Skill
 
@@ -86,7 +86,7 @@
 
 **怎么用它搞钱**：短视频商单 / 教学（钩子工程 + 平台适配是差异化卖点）。
 
-**来源**：[rediumvex/ai-video-generator-claude](https://github.com/rediumvex/ai-video-generator-claude) · ⭐473 · 更新于 2026-11-12
+**来源**：[rediumvex/ai-video-generator-claude](https://github.com/rediumvex/ai-video-generator-claude) · ⭐496 · 更新于 2026-11-24
 
 ### 真实视频提示词 skill
 
@@ -99,7 +99,7 @@
 
 **怎么用它搞钱**：真实感短视频商单 / 教学。
 
-**来源**：[zhouwei713/seedance-prompt](https://github.com/zhouwei713/seedance-prompt) · ⭐337 · 更新于 2026-11-10
+**来源**：[zhouwei713/seedance-prompt](https://github.com/zhouwei713/seedance-prompt) · ⭐345 · 更新于 2026-11-25
 
 ### Cinematic Video Prompt Skill
 
@@ -112,7 +112,7 @@
 
 **怎么用它搞钱**：提示词代写 / 教学（词库 + 公式是硬通货）。
 
-**来源**：[Rylaispirit/cinematic-video-prompt-skill](https://github.com/Rylaispirit/cinematic-video-prompt-skill) · ⭐185 · 更新于 2026-11-12
+**来源**：[Rylaispirit/cinematic-video-prompt-skill](https://github.com/Rylaispirit/cinematic-video-prompt-skill) · ⭐208 · 更新于 2026-11-25
 
 ### Vibe Creating
 
@@ -125,7 +125,7 @@
 
 **怎么用它搞钱**：创意型商单 / 教学（ByteDance 方法论是差异化卖点）。
 
-**来源**：[Alisa0808/vibe-creating-skill](https://github.com/Alisa0808/vibe-creating-skill) · ⭐162 · 更新于 2026-11-11
+**来源**：[Alisa0808/vibe-creating-skill](https://github.com/Alisa0808/vibe-creating-skill) · ⭐168 · 更新于 2026-11-25
 
 ### Cinematic Video Prompt Engineer
 
@@ -138,7 +138,7 @@
 
 **怎么用它搞钱**：短剧商单 / 剧本转提示词代做服务。
 
-**来源**：[CyberJ0605/cinematic-video-prompt-engineer-skill](https://github.com/CyberJ0605/cinematic-video-prompt-engineer-skill) · ⭐148 · 更新于 2026-11-11
+**来源**：[CyberJ0605/cinematic-video-prompt-engineer-skill](https://github.com/CyberJ0605/cinematic-video-prompt-engineer-skill) · ⭐155 · 更新于 2026-11-24
 
 ### Kling AI Prompt Generator
 
@@ -151,7 +151,7 @@
 
 **怎么用它搞钱**：Kling 商单 / 数字人代做（Avatar 2.0 是稀缺能力）。
 
-**来源**：[maciejdzierzek/kling-ai-prompt-generator](https://github.com/maciejdzierzek/kling-ai-prompt-generator) · ⭐36 · 更新于 2026-11-09
+**来源**：[maciejdzierzek/kling-ai-prompt-generator](https://github.com/maciejdzierzek/kling-ai-prompt-generator) · ⭐38 · 更新于 2026-11-24
 
 ### Video Prompting Skill
 
@@ -164,7 +164,7 @@
 
 **怎么用它搞钱**：多模型商单 / 角色一致性代做 / 教学。
 
-**来源**：[Square-Zero-Labs/video-prompting-skill](https://github.com/Square-Zero-Labs/video-prompting-skill) · ⭐190 · Apache-2.0 · 更新于 2026-11-12
+**来源**：[Square-Zero-Labs/video-prompting-skill](https://github.com/Square-Zero-Labs/video-prompting-skill) · ⭐199 · Apache-2.0 · 更新于 2026-11-23
 
 ### FPV 运镜导演 skill
 
@@ -190,7 +190,7 @@
 
 **怎么用它搞钱**：提示词教学 / 代写（手册式知识是可卖的课纲底料）。
 
-**来源**：[geekjourneyx/awesome-ai-video-prompts](https://github.com/geekjourneyx/awesome-ai-video-prompts) · ⭐89 · MIT · 更新于 2026-11-08
+**来源**：[geekjourneyx/awesome-ai-video-prompts](https://github.com/geekjourneyx/awesome-ai-video-prompts) · ⭐92 · MIT · 更新于 2026-11-16
 
 ### 人物表演与视频提示词导演 Skill
 
@@ -203,7 +203,7 @@
 
 **怎么用它搞钱**：短剧商单 / 表演指导式提示词教学。
 
-**来源**：[zhouwei713/facial-expression-prompting](https://github.com/zhouwei713/facial-expression-prompting) · ⭐44 · MIT · 更新于 2026-11-03
+**来源**：[zhouwei713/facial-expression-prompting](https://github.com/zhouwei713/facial-expression-prompting) · ⭐47 · MIT · 更新于 2026-11-25
 
 ### AI Video Prompt 模板库
 
@@ -229,7 +229,7 @@
 
 **怎么用它搞钱**：风格化科普视频商单 / 品牌视觉包代做。
 
-**来源**：[AuroraBarista/vox-style-ai-video-prompts](https://github.com/AuroraBarista/vox-style-ai-video-prompts) · ⭐26 · CC BY 4.0 · 更新于 2026-11-04
+**来源**：[AuroraBarista/vox-style-ai-video-prompts](https://github.com/AuroraBarista/vox-style-ai-video-prompts) · ⭐27 · CC BY 4.0 · 更新于 2026-11-21
 
 ### @yoney1223 电影感短片三场景提示词模板
 
@@ -521,7 +521,7 @@
 
 **核心提炼**
 - 解决什么问题：想做上美影（上海美术电影制片厂）风格短剧，画风总跑偏成油画或 3D——缺一套从故事到分镜、带风格否定约束的 Skill 工作流。
-- 干货要点：1) 安装：开源 Skill 名 smy-seedance-storyboard，仓库 https://github.com/liangdabiao/smy-seedance-storyboard（242★，2026-11-12 更新，暂无 LICENSE 已注明），把仓库地址发给支持 Skill 的 AI（如 workbuddy、豆包工作等），直接让它安装；2) 输入：装好后输入一个故事，比如"帮我做一个武松打虎的上美影短剧，5 集"；3) 输出清单：剧本、全剧色盘、角色场景素材清单、Seedance 分镜和每集尾帧说明，一起给出来；4) 验证节奏：第一轮先做 1 集 15 秒，确认人物、画风和色盘没有乱，再继续下一集；5) 风格否定约束：上美影味道总跑偏，就检查提示词末尾有没有保留"纯 2D 平涂、不要阴影、不要渐变、不要 3D 体积感"；这几句少了，画面很容易又变回油画和 3D。
+- 干货要点：1) 安装：开源 Skill 名 smy-seedance-storyboard，仓库 https://github.com/liangdabiao/smy-seedance-storyboard（273★，2026-11-25 更新，暂无 LICENSE 已注明），把仓库地址发给支持 Skill 的 AI（如 workbuddy、豆包工作等），直接让它安装；2) 输入：装好后输入一个故事，比如"帮我做一个武松打虎的上美影短剧，5 集"；3) 输出清单：剧本、全剧色盘、角色场景素材清单、Seedance 分镜和每集尾帧说明，一起给出来；4) 验证节奏：第一轮先做 1 集 15 秒，确认人物、画风和色盘没有乱，再继续下一集；5) 风格否定约束：上美影味道总跑偏，就检查提示词末尾有没有保留"纯 2D 平涂、不要阴影、不要渐变、不要 3D 体积感"；这几句少了，画面很容易又变回油画和 3D。
 - 什么时候用 / 常见坑：做上美影 / 复古手绘风格系列短剧时套用"首集 15 秒验证 + 2D 平涂否定约束"；与 @XunDavid80270 的火柴人 Skill 打包法不同风格、不同工作流，与 @daodao166888 的火柴人分屏提示词也不同，不视为重复。
 
 **适用场景**：做上美影风格 / 复古手绘 / 国风系列短剧的人。
@@ -645,7 +645,7 @@
 
 **怎么用它搞钱**：漫剧代做 / SKILL 落地服务（一句话出全套是接单卖点，未实测题材先跑一集验证再接单）。
 
-**来源**：[@jackzhang123vip](https://x.com/jackzhang123vip/status/2116494665147130256) · 2026-10-31；[zhanghao123vip/ai-manju-skills](https://github.com/zhanghao123vip/ai-manju-skills) · ⭐775 · MIT · 创建于 2026-10-31，2026-11-13 实测 775★
+**来源**：[@jackzhang123vip](https://x.com/jackzhang123vip/status/2116494665147130256) · 2026-10-31；[zhanghao123vip/ai-manju-skills](https://github.com/zhanghao123vip/ai-manju-skills) · ⭐1041 · MIT · 创建于 2026-10-31，2026-11-26 实测 1041★
 
 ### @wy_ones AI 短剧对白盲听核对法：别把台词提前写进提示词
 
@@ -671,7 +671,7 @@
 
 **怎么用它搞钱**：即梦商单 / 提示词代写 / 教学（10 项能力一次覆盖是接单卖点）。
 
-**来源**：[songguoxs/seedance-prompt-skill](https://github.com/songguoxs/seedance-prompt-skill) · ⭐2998 · README 自述 MIT（仓库未识别 LICENSE 文件，已注明） · 更新于 2026-11-12
+**来源**：[songguoxs/seedance-prompt-skill](https://github.com/songguoxs/seedance-prompt-skill) · ⭐3031 · README 自述 MIT（仓库未识别 LICENSE 文件，已注明） · 更新于 2026-11-25
 
 ### Ecom Video → Seedance Prompt（带货爆款视频反推 Skill）
 
@@ -684,7 +684,7 @@
 
 **怎么用它搞钱**：带货爆款复刻代做 / 投放素材代做（拆解一次、三版复用是成本优势）。
 
-**来源**：[liangdabiao/ecom-video-seedance-prompt](https://github.com/liangdabiao/ecom-video-seedance-prompt) · ⭐125 · 暂无 LICENSE（已注明） · 更新于 2026-11-11
+**来源**：[liangdabiao/ecom-video-seedance-prompt](https://github.com/liangdabiao/ecom-video-seedance-prompt) · ⭐137 · 暂无 LICENSE（已注明） · 更新于 2026-11-24
 
 ### Awesome Seedance 2.0 Prompts（HuyLe82US）
 
@@ -697,7 +697,7 @@
 
 **怎么用它搞钱**：提示词教学 / 模板包销售（带成片验证的提示词是可卖的资产）。
 
-**来源**：[HuyLe82US/awesome-seedance-prompts](https://github.com/HuyLe82US/awesome-seedance-prompts) · ⭐72 · CC BY 4.0 · 更新于 2026-11-11
+**来源**：[HuyLe82US/awesome-seedance-prompts](https://github.com/HuyLe82US/awesome-seedance-prompts) · ⭐73 · CC BY 4.0 · 更新于 2026-11-16
 
 ### Video Prompt Reverse（LunarXuan）
 
@@ -710,7 +710,7 @@
 
 **怎么用它搞钱**：爆款拆解服务 / 分镜代写（拆解是复刻接单的第一步）。
 
-**来源**：[LunarXuan/video-prompt-reverse](https://github.com/LunarXuan/video-prompt-reverse) · ⭐70 · 暂无 LICENSE（已注明） · 更新于 2026-11-11
+**来源**：[LunarXuan/video-prompt-reverse](https://github.com/LunarXuan/video-prompt-reverse) · ⭐74 · 暂无 LICENSE（已注明） · 更新于 2026-11-25
 
 ### Reverse Video Prompt（zhengzhentao86，带货反推 + 迭代诊断）
 
@@ -736,7 +736,7 @@
 
 **怎么用它搞钱**：模板包销售 / 带货视频代做（中文分镜表是接单的交付物）。
 
-**来源**：[marsoyang1/awesome-seedance-prompts](https://github.com/marsoyang1/awesome-seedance-prompts) · ⭐35 · 暂无 LICENSE（已注明） · 更新于 2026-11-04
+**来源**：[marsoyang1/awesome-seedance-prompts](https://github.com/marsoyang1/awesome-seedance-prompts) · ⭐37 · 暂无 LICENSE（已注明） · 更新于 2026-11-15
 
 ### Video Prompt Reverse Engineer（coolxxxx，Seedance 原生格式版）
 
@@ -749,7 +749,7 @@
 
 **怎么用它搞钱**：Seedance 复刻代做 / 提示词教学（原生格式是差异化卖点）。
 
-**来源**：[coolxxxx/video-prompt-reverse-engineer](https://github.com/coolxxxx/video-prompt-reverse-engineer) · ⭐31 · MIT · 更新于 2026-11-12
+**来源**：[coolxxxx/video-prompt-reverse-engineer](https://github.com/coolxxxx/video-prompt-reverse-engineer) · ⭐40 · MIT · 更新于 2026-11-25
 
 ### Seedance 提示词库（FizzEat，中文分类 + 复测结论）
 
@@ -762,7 +762,7 @@
 
 **怎么用它搞钱**：提示词教学 / 模板包销售（带复测结论的提示词更敢卖）。
 
-**来源**：[FizzEat/seedance-prompts-zh](https://github.com/FizzEat/seedance-prompts-zh) · ⭐23 · 分类整理 CC BY 4.0、脚本 MIT · 更新于 2026-11-06
+**来源**：[FizzEat/seedance-prompts-zh](https://github.com/FizzEat/seedance-prompts-zh) · ⭐25 · 分类整理 CC BY 4.0、脚本 MIT · 更新于 2026-11-18
 
 ### Muse Video Prompt Skill（masonmosen，Muse 内置视频实战闭环）
 
@@ -775,7 +775,7 @@
 
 **怎么用它搞钱**：Muse 视频代做 / 提示词教学（"写完直接生成、拼接、验证"一条龙是卖点）。
 
-**来源**：[masonmosen/muse-video-prompt-skill](https://github.com/masonmosen/muse-video-prompt-skill) · ⭐23 · MIT · 更新于 2026-11-12
+**来源**：[masonmosen/muse-video-prompt-skill](https://github.com/masonmosen/muse-video-prompt-skill) · ⭐284 · MIT · 更新于 2026-11-26
 
 ### H3 + Seedance 双版提示词 Skill（EVZheng-Lab）
 
@@ -788,7 +788,7 @@
 
 **怎么用它搞钱**：双模型商单 / 导演思维教学（"一句话、两版提示词、直接对照"是接单卖点）。
 
-**来源**：[EVZheng-Lab/h3-seedance-prompt](https://github.com/EVZheng-Lab/h3-seedance-prompt) · ⭐23 · 暂无 LICENSE（已注明） · 更新于 2026-11-03
+**来源**：[EVZheng-Lab/h3-seedance-prompt](https://github.com/EVZheng-Lab/h3-seedance-prompt) · ⭐25 · 暂无 LICENSE（已注明） · 更新于 2026-11-21
 
 ### Seedance 提示词生成器（shyman159，12 条生产铁律 + 17 模板）
 
@@ -801,7 +801,7 @@
 
 **怎么用它搞钱**：短剧改编代做 / 系列短剧商单（"故事进、分镜出"是接单卖点）。
 
-**来源**：[shyman159/seedance-prompts-skill](https://github.com/shyman159/seedance-prompts-skill) · ⭐21 · MIT · 更新于 2026-11-06
+**来源**：[shyman159/seedance-prompts-skill](https://github.com/shyman159/seedance-prompts-skill) · ⭐22 · MIT · 更新于 2026-11-15
 
 ### Seedance Viral Forge（11Yuxuanyang，三岗技能：带货/跳舞/热梗）
 
@@ -814,7 +814,59 @@
 
 **怎么用它搞钱**：带货脚本代做 / 商家引流视频代做（"给最低输入、出可直接生成的脚本"是接单卖点）。
 
-**来源**：[11Yuxuanyang/seedance-viral-forge](https://github.com/11Yuxuanyang/seedance-viral-forge) · ⭐21 · MIT · 更新于 2026-11-02
+**来源**：[11Yuxuanyang/seedance-viral-forge](https://github.com/11Yuxuanyang/seedance-viral-forge) · ⭐22 · MIT · 更新于 2026-11-22
+
+### Seedance Skill（robonuggets，液态玻璃动态图形）
+
+**核心提炼**
+- 解决什么问题：想给 App/产品做苹果发布会质感的动态图形宣传片，不知道提示词怎么写、成本多少——缺一套"截图进、成片出"的 Seedance 技能。
+- 核心用法（3 步）：1) 把 SKILL.md 拷到 Claude Code 项目的 .claude/skills/seedance/；2) 配好 FAL_KEY（走 Fal AI 调 Seedance 2.0）；3) 告诉 Claude Code："Generate a liquid glass motion graphics promo for https://linear.app"，它自己截图网站、上传图片、生成视频、下载成片；4) 按 4 套提示词模板出片：Liquid Glass（半透明 UI 面板＋反光，默认）／Floating Desktop（黑虚空中的 MacBook/iPad 产品镜头）／Glass UI Ad（玻璃交互特写）／Abstract Motion Identity（带时间戳的几何变换序列）。
+- 什么时候用 / 常见坑：给 SaaS/App 做动态图形广告时用；黄金法则：1 张参考图对应 2 秒视频；5 条关键规则：logo 别写进提示词描述、直接传图作参考（或后期叠加）；默认 Pro 档（只比 Fast 贵 25%，效果明显更好）；API 调用用临时 JSON 文件（shell 转义会弄坏 curl）；视频里别写文字、logo 后期叠；参考图最多 5 张，再多质量下降；成本（作者实测，Pro 720p 每秒 $0.30）：4 秒测试约 $1.21、10 秒成片约 $3.03；暂无 LICENSE（已注明）。
+
+**适用场景**：给 SaaS/App/产品做动态图形广告的人。
+
+**怎么用它搞钱**：产品宣传片商单（"截图进、成片出"是接单卖点）。
+
+**来源**：[robonuggets/seedance-skill](https://github.com/robonuggets/seedance-skill) · ⭐112 · 暂无 LICENSE（已注明） · 更新于 2026-11-24
+
+### Seedance.skill 白模驱动视频工作台（alchaincyf）
+
+**核心提炼**
+- 解决什么问题：用参考视频（白模）控 AI 视频运镜和空间关系是最有效的办法，但有三个反复出现的坑：需求没澄清就开工、返工成本是澄清成本的几十倍；白模做出来是坏的却看不出来（相机和主体重叠、绕圈中心不是主体、人被裁出画）；提示词和白模对不上（prompt 承诺了白模里根本没有的运镜）。
+- 核心用法（3 步）：1) references/intake.md 只问三件必须问的（多长、发在哪、一镜到底还是切镜头），其余先推断再摊给用户否决，摊完先给一张镜头表让他改字；2) engine/probe.mjs 渲染前纯数学扫一遍时间轴：主体出画、主体太小会被模型丢掉、死时间、缓动瘫尾、相机钻进墙里、队形超框、画幅不一致，全部在渲染前报出来；3) engine/make_prompt.mjs 从白模的实际几何量出景别、机位距离、俯角、环绕角度，用量出来的数字写提示词——白模只提供空间关系、运镜路径、时间节奏三件事，材质、光线、色彩、造型全部交给参考图；还能从一张照片反解出白模。
+- 什么时候用 / 常见坑：运镜和空间关系要求精确的片子（白模控运镜）先用它做几何体检、再生成提示词；支持 Claude Code、Codex、Cursor、OpenClaw。
+
+**适用场景**：做运镜精确控制、广告/短片运镜要求高的创作者。
+
+**怎么用它搞钱**：运镜精确控制商单 / 白模工作流教学。
+
+**来源**：[alchaincyf/seedance-skill](https://github.com/alchaincyf/seedance-skill) · ⭐71 · MIT · 更新于 2026-11-24
+
+### Seedance Skills 导演级提示词 OS（LeoYeAI，28 个 skill）
+
+**核心提炼**
+- 解决什么问题：提示词只会写"cinematic"这种空词——缺一套把导演判断（机位、镜头、光线、走位、声音都要服务于场景意图）编码成模块化 skill 的系统。
+- 核心用法（3 步）：1) 按 OpenClaw/Hermes agent 装 skill OS（28 个模块化 skill、56 个 reference）；2) 把模糊想法丢给 agent，它先收成 focused brief、再按 6 种语言写紧凑的原生提示词；3) 覆盖 T2V/I2V/V2V/R2V/FLF2V、多片段序列、IP-safe 改写，从 brief 到交付 QC 走完专业流程；一句话理念：Direct the model. Don't micro-manage the frame.（指挥模型，别逐帧微操。）
+- 什么时候用 / 常见坑：做 Seedance 2.0 多片段叙事、跨语言项目时用；仓库含 MyClaw.ai 赞助横幅（云端托管 OpenClaw 推广），skill 本体为 MIT 开源内容。
+
+**适用场景**：Seedance 2.0 深度用户、接 AI 视频商单的工作室。
+
+**怎么用它搞钱**：导演级提示词服务 / 商单（"28 个 skill 一套 OS"是接单卖点）。
+
+**来源**：[LeoYeAI/seedance-skills](https://github.com/LeoYeAI/seedance-skills) · ⭐55 · MIT · 更新于 2026-11-25
+
+### PromptLab 图片/视频反推提示词（gracech0322-cmd，Chrome 插件）
+
+**核心提炼**
+- 解决什么问题：看到一段好视频/好图，想反推成能直接用的提示词——缺一个"本地视频/图片进、Seedance 风格提示词出"的工具。
+- 核心用法（3 步）：1) 装 Chrome 插件，按插件内说明申请免费 Gemini API key；2) 上传本地视频（60 秒以内最佳，自动抽关键帧，分 Fast/Standard/Detailed 三档采样）或右键点网页图片/上传本地图片；3) 输出一份干净的 Final Result 提示词（视频反推按 Seedance 2.0 风格格式），直接复制去生成。
+- 什么时候用 / 常见坑：反推本地视频/图片、学别人提示词写法时用；硬限制：README 明言不支持 Instagram/TikTok/X/Facebook/YouTube 在线视频分析——视频分析只能上传本地视频文件（复制爆款库此前三次暂缓即因此限制；本库收录为提示词生成工具，本地文件仍可用，限制已注明）。
+
+**适用场景**：学提示词写法、反推本地视频/图片的创作者。
+
+**怎么用它搞钱**：提示词反推代做 / 教学（"本地视频进、提示词出"是卖点）。
+
+**来源**：[gracech0322-cmd/promptlab-image-video-to-prompt](https://github.com/gracech0322-cmd/promptlab-image-video-to-prompt) · ⭐58 · MIT · 更新于 2026-11-19
 
 ### @swordBluesy Runway 时装走秀：首帧五标准 + 提示词只写三件事
 
@@ -1414,6 +1466,214 @@
 
 **来源**：[@FootballAnt247](https://x.com/FootballAnt247/status/2121232700488994946) · 2026-11-13
 
+### @neo_cn 说话镜头单独处理：口型先对上，声音再贴上去
+
+**核心提炼**
+- 解决什么问题：AI 视频里人一开口口型最容易对不上，声音在说、嘴却在动别的，音画一错位再真的脸也像配音。
+- 干货要点：1) 说话镜头单独处理——lip sync pass, short lines, clear mouth shape；2) 台词短一点，嘴型先对上，声音再贴上去；3) 口型对上了，视频才像真人在说话。
+- 什么时候用 / 常见坑：有对白/说话镜头、口型总对不上时用；本条为短帖，一条方法，与已收录的 @Zizaiaiai 声音提示词"口型"写法、@lgwny0120 音画同步模板互补（本条讲"说话镜头单独过一遍口型"，不是声音分层）。
+
+**适用场景**：做 AI 短剧/口播/对白戏的人。
+
+**怎么用它搞钱**：短剧对白商单 / 口型修正代做。
+
+**来源**：[@neo_cn](https://x.com/neo_cn/status/2121241970509017134) · 2026-11-13
+
+### @john87445528 《镜子里面那个先动了》：30 秒哥特恐怖短片完整提示词，替身只比真人慢半拍
+
+**核心提炼**
+- 解决什么问题：30 秒完整短片提示词怎么写：时长/画幅/风格/参考图分工/表演/空间/道具规则/分镜/声音/连续性约束，一次写全的模板。
+- 干货要点：1) 结构：30 秒完整短片不分段、21:9 宽银幕、1974 年意大利哥特恐怖＋生活喜剧混合电影、35mm Techniscope 胶片质感（粗粝颗粒、柔和老式变形宽银幕镜头、零星尘点与细小划痕，真实旧旅馆布景）；2) 参考图分工（参考图是设计依据，不是首帧）：@img1 锁门口四怪（怪嘴怪/法老/机械绅士/龙虾怪，只是误入闹鬼房间的同伴，不是镜中鬼）；@img2 锁男女主体格关系（男主略高且明显更宽厚）；@img3 锁女主五官与穿着；@img4 锁男主面容、凌乱黑卷发、皮革猎装与灰绿斗篷；镜中替身与女主同一张脸、同一套衣服，只有肤色略冷、动作时序与表情不同；3) 核心规则"慢半拍"：替身模仿相同姿态却故意慢半拍——女主停涂口红后，镜中手继续涂完最后一下；替身先缓缓抬眼、再独自把嘴角拉开笑；越镜按手→肩→脸→腿的顺序，退回时顺序清楚、不突然消失；4) 唯一道具：全片只有一支深红色口红（女主持有→替身夺走→结尾放回，交接全程可见），开场镜内口红只是它的反射；5) 10 镜分镜 0–30 秒：涂口红失同步 0–4／替身笑 4–7／手穿镜 7–10／门口四怪 10–13／抢口红 13–16／替身跨出 16–19／男主提两盆脏衣服进场 19–22／替身退回 22–25／关木门 25–28／放回口红 28–30，每镜硬切、镜子/女主/门口的空间方向一致；6) 声音与对白：仅两句重庆话对白（男主："正好，一人一盆。""拿了东西就想跑嗦？"），女主全片不说话；前 18 秒只有稀疏低弦音，结尾才进轻巧木吉他拨弦；7) 表演：女主"海妖风"姿态（身体微侧 S 曲线、半垂眼皮、发现异常先停手再移眼、最后才轻微改变头部角度），性感来自眼神、姿态与距离感，不用夸张媚笑、舔唇或局部身体特写；8) 连续性约束：不砸镜、不碎玻璃，无血、无伤口、无激光、无魔法粒子、无突然闪脸。
+- 什么时候用 / 常见坑：写 30 秒完整短片提示词、恐怖＋喜剧反差片时套用；浏览器报告"@img1 锁女主角"与"替身快半拍"及分镜概括与 API 原文不符，已按原文纠正。
+
+**适用场景**：做 AI 短剧/完整短片提示词的人。
+
+**怎么用它搞钱**：短剧剧本＋提示词代做。
+
+**来源**：[@john87445528](https://x.com/john87445528/status/2121392675115180176) · 2026-11-14
+
+### @KOF97AI 中式伪纪录恐怖 15 秒提示词工程：七节锁死时序、空间与物理
+
+**核心提炼**
+- 解决什么问题：伪纪录恐怖片一惊一乍靠 Jump scare、穿帮靠"氛围"遮——想用 15 秒原生相机镜头把日常撕开一条口子，又要零 AI 感。
+- 干货要点：1) 七节结构：成片规格与摄影机参数／角色设定与动态表现／空间透视与道具约束／真实物理布光逻辑／15 秒分镜时序表／拟真声场设计／底层物理负面门禁；2) 相机写死原生参数：15 秒、9:16 竖屏、第一人称手持手机后置单镜头一镜到底、普通智能手机 1 倍主摄等效约 26mm、1080p 30fps、全自动曝光/白平衡/连续自动对焦、无美颜无滤镜、暗部偏软＋细碎原生数字噪点、只许真实物理运动模糊；3) 空间与道具全给数字：沙发底部距地板净空约 16 厘米、左侧走道约 0.5 米宽、开场持机者在女友右脚前约 1 米、蹲下后镜头离地约 40 厘米距脚踝约 0.5 米、脚链垂链约 15 厘米、末端小环开场即卡入沙发底；金属链条全程维持刚韧的细链属性，严禁突变橡胶绳或无限拉长；4) 布光：全屋只留沙发右后方一盏暖黄旧式台灯＋手机后置单颗 LED 常亮补光，沙发底纵深死黑死角、只有灯束斜切进去才逐级照亮人脸，严禁突然出现全局无源提亮；5) 分镜 0–4 亲密求助／4–7 蹲下查看／7–10 拉出非人之物（链条末端拉出一张紧贴地板侧卧的成年女性面孔，银色小环卡在其外凸犬齿上）／10–13 反向拖拽／13–15 入侵捕食范围，收尾半秒湿冷死白面孔在 LED 补光下放大到不足 20 厘米、硬切中断无渐隐；6) 声场三层：环境层（室内底噪/低语/衣料窸窣/台灯镇流器交流电哼鸣）／动态层（金属链拖地/地板颗粒摩擦/鼻息）／受击层（衣领摩擦堵麦＋气管被截断的闷哼），严禁 BGM、无源旁白、预制恐怖尖笑与 Jump scare 音效；7) 负面门禁：左右逻辑恒定（被拖始终为女友右脚、持机者固定右手握机左手交互）、单体生物逻辑（仅一部手机/一名受害女友/一个潜伏怪物）、机械传力保真（怪物口腔是链条拉力的唯一机械支点）、体积排他（16 厘米缝只容鞋尖脚掌踝关节卡入）、去影视化纯纪实（剔除电影机位正反打/视角穿透地表/无动力旋转环绕/非自然升格慢动作/爆裂频闪/黑水渗出/面部血管黑化）。
+- 什么时候用 / 常见坑：写伪纪录/恐怖短片提示词、要"原生相机直出、零 AI 感"时套用；浏览器报告"35mm 定焦 f/2.0、ISO 800、1/50s、4K 24fps"在 API 原文未见，已按原文（26mm、1080p 30fps）纠正。
+
+**适用场景**：做恐怖/悬疑短剧、伪纪录风格的人。
+
+**怎么用它搞钱**：恐怖短剧商单 / 提示词工程代做。
+
+**来源**：[@KOF97AI](https://x.com/KOF97AI/status/2121613863070408774) · 2026-11-14
+
+### @FootballAnt247 别让短剧人物站成蜡像：肩膀跟着呼吸动
+
+**核心提炼**
+- 解决什么问题：AI 短剧人物站着像蜡像——静立镜头里人完全不动，一眼假。
+- 干货要点：1) 改法：提示词让肩膀跟着呼吸动一下，同一口呼吸写出三种情绪：举着手机硬撑笑——"肩膀随呼吸轻微发颤"；摩挲怀表出神——"呼吸带动肩部轻起伏"；低头连声道歉——"肩膀随呼吸细微发抖"；2) 原则：静止镜头里人也得在喘气——站立凝视时胸腔起伏、肩线微动，肩膀起伏与发丝轻摆同步。
+- 什么时候用 / 常见坑：人物静立/站立镜头显假时加一句呼吸肩膀；与已收录的 @neo_cn 人物微动四要素（呼吸起伏为其中之一）互补，本条是"肩膀＋呼吸"的具体写法与三情绪例句。
+
+**适用场景**：做 AI 短剧、人物静立镜头多的人。
+
+**怎么用它搞钱**：短剧商单（"站着也在喘气"是真实感卖点）。
+
+**来源**：[@FootballAnt247](https://x.com/FootballAnt247/status/2122126521531793511) · 2026-11-16
+
+### @KOF97AI 微缩奇幻世界分镜提示词范式：宏观人手与微观王国的比例反差锁死
+
+**核心提炼**
+- 解决什么问题：微缩世界视频比例一乱就穿帮——人手和微观场景各拍各的，大小关系对不上。
+- 干货要点：1) 核心：把宏观人手互动与微观洞穴王国的比例反差锁死；2) 三段时序：0–2 秒手敲银锤、微裂纹→中段推镜展现水晶矿石与发光城堡→片尾拉远回归木质桌面、多石块对比；3) 分秒时序与镜头运动定义极其严密，可直接投喂给多模态生成管线复刻微距物理质感。
+- 什么时候用 / 常见坑：做微缩/微距奇幻世界、比例反差是卖点时用；完整英文提示词与 5 段镜头分镜未在帖子正文内（帖子只给方法拆解，正文无站外链接，完整提示词疑在配图内，读者需点原帖查看）。
+
+**适用场景**：做微缩世界、奇幻微距视频的人。
+
+**怎么用它搞钱**：微缩奇幻商单 / 提示词范式代做。
+
+**来源**：[@KOF97AI](https://x.com/KOF97AI/status/2125027977960599796) · 2026-11-24
+
+### @APIfinder_AI 别堆形容词，先设计镜头：五条让提示词变准的方法
+
+**核心提炼**
+- 解决什么问题：AI 视频一团乱就加词、加细节，结果越改越乱——提示词写的是整场戏，不是单个镜头。
+- 干货要点：1) 一个镜头只做一件事："She enters the room, sits down, pours tea, looks up, and the camera circles around her." 不是一个动作，是一串动作加一个运镜——拆成多个镜头再剪辑，别让一条片子扛整场戏；先从最小的开始："Locked medium shot. She pours tea into a cup."；2) 写镜头语言而不是氛围："cinematic" 只说了风格，没说机位在哪、怎么动——写清三样：景别、机位高度、运动，如 "Eye-level wide shot. Subject centered. Camera locked." / "Medium shot at chest height. Slow dolly in. Keep the horizon level."，错了能定位是哪条指令没执行，而不是再叠一层形容词；3) 先锁定首尾帧再写运动：FIRST FRAME: 空走廊、门关着、冷而均匀的光；LAST FRAME: 同一条走廊、门半开、暖光漫到地板上；再写过渡（门缓缓打开、镜头不动），并定死什么必须不变（走廊布局、景别、场景里的物件）；4) 声音先于画面写：一个固定镜头、一只空桌上的杯子——脚步声从画外靠近、椅子刮擦、然后静默；先写声音提示再补视觉运动，模型不支持的音轨后期补；5) 先给失败定性再重新生成：错了先停下来，是动作太多、运镜分心、主体无故变大、还是光线中途变向？一次只改一条相关指令，其他设置不动，否则不知道哪处改动起了作用。
+- 什么时候用 / 常见坑：提示词越改越乱、成片总像"一整场戏挤进一个镜头"时用；浏览器报告"a slow dolly in from behind, ending on her eyes"与"她站在门口/桌边坐下"两例在 Article 原文未见，已按原文（走廊/门的首尾帧、eye-level wide shot 等）纠正；同作者 11 月 24 日中文版同方法帖未重复计入。
+
+**适用场景**：所有写 AI 视频提示词、成片总显乱的人。
+
+**怎么用它搞钱**：提示词教学 / 镜头设计代做（"一个镜头只做一件事"是改片省钱的卖点）。
+
+**来源**：[@APIfinder_AI](https://x.com/APIfinder_AI/status/2125411755002368116) · 2026-11-25（Article 全文经 fxtwitter API 直读）
+
+### @realJustinSoong 多图引用先给编号：image 1、image 2 各管各的参考
+
+**核心提炼**
+- 解决什么问题：多张参考图一起喂，模型串图、张冠李戴——哪张管脸、哪张管场景说不清。
+- 干货要点：1) Runway Dev 11 月 20 日接入 MiniMax H3 Image，最多能带 16 张参考图；2) 提示词里按上传顺序叫它们 image 1、image 2，再说清每张图拿来参考什么。
+- 什么时候用 / 常见坑：一次喂多张参考图（尤其 16 张上限的场景）时先编号再分工；与已收录的 @realJustinSoong 参考素材按名字点名互补（那条讲按名字点名，这条讲按上传顺序编号）。
+
+**适用场景**：多图参考、角色＋场景＋道具分开锁定的项目。
+
+**怎么用它搞钱**：多图参考工作流教学 / 商单。
+
+**来源**：[@realJustinSoong](https://x.com/realJustinSoong/status/2125567147443437979) · 2026-11-25
+
+### @AITube_App 提示词用词分级：S 级写运镜落点，D 级是空洞大词
+
+**核心提炼**
+- 解决什么问题：提示词里堆"cinematic、masterpiece、8K"这种大词，模型根本不知道要画什么——词的效力差着等级。
+- 干货要点：1) S 级：一个运镜＋落点（a camera move that lands，如纸船入画的推镜）；2) A 级：一个光源、一个方向、一个声音（如 only a pink neon sign, from the left；steady rain hiss）；3) B 级：一个动作节拍、一个镜头（如 bumps into a bottle cap；low angle, 35 mm）；4) C 级：氛围词（moody、dreamy、gritty、vibrant）；5) D 级：空洞大词（cinematic、masterpiece、8K、ultra realistic、epic、trending），配图看板直接划红线打叉。
+- 什么时候用 / 常见坑：写提示词前先过一遍分级——S/A/B 的具体词多写，D 级大词删掉；浏览器报告 B 级"spins once"与 S 级两句英文例句在 API 原文/配图说明未见，已按配图 alt 文本纠正。
+
+**适用场景**：所有写 AI 视频提示词的人，尤其爱堆形容词的新手。
+
+**怎么用它搞钱**：提示词教学（"删掉 D 级词"是立即可用的卖点）。
+
+**来源**：[@AITube_App](https://x.com/AITube_App/status/2125591560817684846) · 2026-11-25
+
+### @PixelAigc MiniMax H3 15 秒对白短剧完整提示词：首尾帧强制特写＋双人声线区分
+
+**核心提炼**
+- 解决什么问题：对白短剧提示词怎么写：15 秒、双人对话、声线区分、镜头限制、首尾帧定格，一次写全的模板。
+- 干货要点：1) 结构四块：output_spec（15 秒、16:9、24fps、华纳哈利波特电影质感、昏暗古堡暖烛光、漂浮细碎魔法微光、胶片颗粒、面部稳定；首帧哈利脸部特写、正反打剪辑；音色区分：哈利声线坚定沉稳、女性德拉科声线清冷傲慢带着不甘；镜头仅限特写、近景、过肩特写，禁止全身镜头）＋integrated_multimodal_description（霍格沃茨石砌走廊、壁烛摇曳、古旧盔甲、银蓝色魔法光点；哈利格兰芬多校服、圆框眼镜、额间伤疤；德拉科反串为女生，保留马尔福精致冷艳五官、浅金发色、女性斯莱特林校服；二人围绕 13000 赌局对峙，德拉科 12999、哈利 13000）＋8 镜分段（00:00–00:15，每镜约 2 秒，含英文台词与 SFX：烛火噼啪、魔法光屏嗡鸣、衣料摩擦、魔法粒子流动声；首帧强制哈利脸部特写、尾帧强制女性德拉科脸部特写）＋overall_soundscape 与 non_diegetic_music（古堡走廊混响、烛火噼啪、远处风声、魔法光屏低频嗡声；幽暗悬疑管弦配乐、弦乐为主、对白时压低音量）；2) 可复用的骨架：总规格＋质感＋声线区分＋镜头禁令＋多模态描述＋按秒分镜（台词＋SFX）＋声场与配乐，换题材照填。
+- 什么时候用 / 常见坑：写 MiniMax H3 对白短剧、双人对话戏时直接套结构；本条为回复帖（回复作者自己的原帖）。
+
+**适用场景**：做 AI 短剧/对白戏、MiniMax H3 用户。
+
+**怎么用它搞钱**：对白短剧商单 / 提示词模板代做。
+
+**来源**：[@PixelAigc](https://x.com/PixelAigc/status/2125618357743620576) · 2026-11-25
+
+### @Zizaiaiai 服装造型别抢脸：8 种写法＋4 个更稳写法＋3 套模板
+
+**核心提炼**
+- 解决什么问题：服装写不好三种穿帮：写了安静翻书却穿亮片外套、第二镜外套自己换颜色、帽子墨镜粗项链一起上场脸反而看不清；只丢一句"穿得很有气质"，模型就自己发明一套跟戏完全不搭的衣服。
+- 干货要点：1) 8 种写法：①先写款式和颜色，不要只写"穿得很有气质"；②身上只写两到三件主服装，别一件套一件还外加一堆配饰；③衣服颜色别太跳、logo 别太清楚，别让衣服比脸还抢戏；④衣服要有穿着状态（外套微敞、袖口稍挽），别像刚从衣架上拿下来的新品；⑤服装要帮情绪和身份，别和这场戏拧着来；⑥层次分开写：外套、内搭、下装各自点名；⑦配饰要少、要小，帽子墨镜粗项链别同时上场；⑧跨镜头锁同一套服装和发型，别让外套自己换颜色；2) 4 个更稳的写法：先写服装再写人物和动作（服装放靠前，模型才知道这人穿什么站在过道里）；把外套、内搭、下装分开点名；写清不要哪些抢戏的衣服和配饰；多镜头时开头锁死同一套衣服和发型，后面每镜只换景别和动作；3) 固定顺序：先写服装的款式、颜色和层次，再写人物做什么、景别和镜头，最后写上不要哪些抢戏的衣服和配饰；4) 3 套模板（换人物场景直接用）：模板一书店过道安静翻旧书／模板二外套敞开能看出穿在身上／模板三傍晚走到书店门口外套扣上；贯穿示例为同一位 26 岁左右女生（中长棕发、左侧素色小发卡、洗旧浅橄榄色工装外套、米白圆领 T 恤、深色直筒牛仔裤、白运动鞋，社区二手书店窄过道）；5) 小作业：同一段描述分别写成"亮片外套＋印满 logo 的卫衣＋帽子墨镜粗项链"和"只有浅橄榄色工装外套＋米白 T 恤＋深色牛仔裤＋一只素色小发卡"各生成一条，对比一下。
+- 什么时候用 / 常见坑：写人物服装造型、跨镜头总换衣服时用；本条为系列连载（前篇为道具、材质篇），下一篇预告写表情和微动作；浏览器报告"一件法/全身法/材质法/叠穿法/对比法/动作法/时间法/氛围法"与"颜色只写一个主色"等与 Article 原文不符，已按原文（8 种写法＋4 个更稳写法＋固定顺序）纠正。
+
+**适用场景**：做 AI 短剧/人物视频、服装总抢戏或跨镜换装的人。
+
+**怎么用它搞钱**：服装造型提示词教学 / 短剧商单。
+
+**来源**：[@Zizaiaiai](https://x.com/Zizaiaiai/status/2125622798764945745) · 2026-11-26（Article 全文经 fxtwitter API 直读）
+
+### @sammy_x_7 生成前先答五问：谁在看、第一眼、发生什么、镜头动否、落在哪里
+
+**核心提炼**
+- 解决什么问题："Make it cinematic" 听起来像好提示词，直到你说不清到底想要什么——写提示词前先把画面想清楚。
+- 干货要点：1) 五问：①谁在看（通勤刷手机的人？产品页顾客？向朋友展示的创始人？答"anyone"，镜头就会讨好所有人、最后什么也没说）；②第一眼看到什么（不是"a nice coffee scene"，而是"外卖咖啡杯在厨房台面、左侧晨光"，开头画面不具体，后面也不会具体）；③实际发生什么（先做小而可判断的版本：手拿起杯子、蒸汽升起，就是这一个镜头；走路、抿一口、微笑、城市街景版以后再试）；④镜头动不动、落在哪里（这个例子里镜头静止、让杯子动：手把杯子移出画面，结尾落在空无一物、洒满阳光的台面，简单到能一眼判断结果符不符合想法）；⑤自检（生成前把提示词读一遍、在脑子里把整个镜头过一遍，哪部分想不出来，就在那部分写具体）；2) 咖啡广告示例提示词（可直接抄）："5-second vertical coffee ad. Close-up of a plain takeaway cup on a kitchen counter. Soft morning light from the left. A hand slowly lifts the cup out of frame, steam rising. Camera stays still. End on the empty counter. No text."
+- 什么时候用 / 常见坑：动笔写提示词之前先过五问；7/7 附带作者自有工具 Oakgen 的推广，未计入方法；首帖浏览器报告"三类常错"在串 1/7–7/7 全文未见，已删去不采用。
+
+**适用场景**：所有写 AI 视频提示词、成片总和脑子里想的不一样的人。
+
+**怎么用它搞钱**：提示词教学（"五问自检"是新手最容易上手的卖点）。
+
+**来源**：[@sammy_x_7](https://x.com/sammy_x_7/status/2125665929132675326) · 2026-11-26（串 2/7–7/7 经 live browser 逐条直读核验）
+
+### @nanyuan0412 MAGI-2 六段式提示词写法＋3 条省积分铁律（7 组实测案例）
+
+**核心提炼**
+- 解决什么问题：新模型 MAGI-2 怎么写提示词、废卡怎么省——通宵 7 组实测撞出来的写法与避坑结论。
+- 干货要点：1) 六段式公式（作者称 Renoise 总结提炼，对齐 MAGI-2 底层导演脚本理解逻辑；纯图生/文生时用）：①影像设定与风格锁定（画幅＋总时长＋实拍胶片/CG 渲染质感＋焦段景深＋一镜到底或切镜方式）；②素材分工与角色锁定（@图片1、@图片2 各自锁什么，无头三视图必加"头身自然融合"）；③场景、空间与光影基线（三维空间布局、前后景方位、主光与轮廓光色温，跨镜头不穿墙不褪色）；④分秒表演与运镜时间轴（按 0–5s/5–10s 切片，写清每段机位怎么动＋人物做什么＋物理惯性因果）；⑤声音基线与画面文字（环境底噪＋配乐风格/BPM＋精准到秒的台词口型分工或指定弹出的画面文字）；⑥严格限制兜底红线（严禁无头残缺/灰底排版、严禁换脸换装、严禁肢体穿模、无多余字幕与水印）；2) 铁律 02｜空间朝向和分镜轴线千万别写拧巴：MAGI-2 执行力满分但比较"死心眼"，不会像 SD 2.5 那样自动帮你改戏——人往深处门里走却强行要求拍正脸，就会重蹈"面朝镜头倒着走进屋"的覆辙；打斗招式写太密也会越轴；3) 铁律 03｜一旦传了参考视频做换角，立马做减法改用短提示词：原视频已经锁死运镜和卡点，别再塞几千字长文——浓缩成 500–800 字短提示词（运镜全权交给 @视频1，只写谁换谁＋神态增量），动作才最丝滑；4) 6 条实测结论：提示词遵循很老实（可大幅减少抽废卡，SD 2.5 会在一定时候自动优化篡改提示词）；人物替换强（多人换脸换装一步到位，一定程度上吊打 Wan 3.0）；声音还有短板（人声唱腔与配音提升空间大）；空间结构容错待提高（前后朝向和镜头轴线不能写拧巴）；近景文戏很稳（情绪执行到位，可胜任大多数 AI 漫剧）；视频参考不消耗积分（作者称 Renoise 独家优惠，未独立核实）；5) 7 组案例要点：案例 01 30 秒一镜到底（1 角色＋3 纯净空镜，翻车教训＋六段式完整提示词）；案例 02 12 秒微表情（6 层递进：委屈失神→忍泪苦笑→镜片下拭泪→故作轻松一笑→说"那我走了"转身，MAGI-2＞SD 2.5＞可灵 4.0）；案例 03 12 秒多角色唱跳（3 张角色图，谁唱谁张嘴、不唱闭口，MAGI-2 提示词遵循满分、SD 2.5 声音更强）；案例 04 30 秒高密度打斗（SD 2.5 完胜；MAGI-2 打斗三点：先理顺分镜轴线、招式别太密、节奏放慢后期抽帧加速）；案例 05 15 秒五人换角（短提示词赢了长提示词：有原视频强参考时运镜卡点已被锁好，长文反而跟原视频动势打架；1 对 1 精准替换；Wan 3.0 漏换 C 位男主）；案例 06 27 秒真人爆款复刻（方案一不转深度直接参考换人／方案二转黑白深度视频再参考换背景，27 秒 360° 转圈五官眼镜神态全稳）；案例 07 邪修玩法（涂白脸动作图去干扰：6 张 16:9 涂白脸动作图＋1 张角色图＋1 张空镜，8 图满载一次直出 30 秒；@图片1 锁人、@图片2 锁景、@图片3~8 只抄动作骨架；前中远景空间分离写死防穿模，6 镜零穿模零裁头）。
+- 什么时候用 / 常见坑：用 MAGI-2 写提示词、想省废卡时套六段式＋三铁律；本条长文夹带大量 Renoise 推广（黑五折扣、ref 链接、价格对比）已剥离，只取方法；"既不卡二次元版权也不卡明星版权"为作者说法，作者自己也在文中提醒版权风险自担——换角接单前务必自行评估版权风险；浏览器报告"案例 04 对视三要点""案例 07 涂白脸→写字→手抹擦掉"与 Article 原文不符，已按原文纠正。
+
+**适用场景**：用 MAGI-2/SD 2.5 做长镜头、漫剧文戏、换角复刻的人。
+
+**怎么用它搞钱**：漫剧分镜代工（文戏走 MAGI-2、打斗切 SD 2.5，算力成本砍半）／换角复刻起号／品牌短片商单（30 秒长镜头＋邪修控姿）。
+
+**来源**：[@nanyuan0412](https://x.com/nanyuan0412/status/2125730423171097031) · 2026-11-26（Article 全文经 fxtwitter API 直读）
+
+### @AI_DVD6 台词别写长：每段压在 25 个字以内，念歪就换词重跑
+
+**核心提炼**
+- 解决什么问题：台词一长，个别字念歪、口型对不上，硬改提示词越改越费。
+- 干货要点：1) 每段台词尽量压在 25 个字以内；2) 个别字念歪了就换个词重跑，比硬改提示词省事多了。
+- 什么时候用 / 常见坑：写对白/口播台词、个别字总念歪时用；本条为回复帖（一句话经验），与已收录的 @Zizaiaiai 声音提示词"台词一定要短、一句十几个字以内"同方向、不同作者不同表述，分别计入；父文为其 Google Flow 教程长文（11-08），不在本条方法内。
+
+**适用场景**：做 AI 短剧/口播、台词总念歪的人。
+
+**怎么用它搞钱**：对白短剧商单（"台词压短＋换词重跑"是省重抽的卖点）。
+
+**来源**：[@AI_DVD6](https://x.com/AI_DVD6/status/2125745504768397623) · 2026-11-26
+
+### @gulu_0928 9 秒真人质感面部特写提示词：逐帧级写法（规格＋虹膜坐标＋首帧锁脸）
+
+**核心提炼**
+- 解决什么问题：真人质感面部特写怎么写提示词：时长、画幅、构图坐标、动作时序、肤质光线，一次写全的逐帧级模板。
+- 干货要点：1) 规格先写死：9.00 秒、9:16 竖屏、24 fps、共 216 帧、画幅以 720×1280 为基准，一镜到底拍年轻成年东亚女性极近距离脸部特写；2) 构图给坐标：近侧虹膜距左缘约 15%、距顶缘约 24%，远侧虹膜约横向 66%、纵向 27%；鼻尖在画幅右半部，唇缝约在画面三分之二高度，下巴底缘约在 88% 高度；脸从左边压住画幅，头顶和近侧太阳穴被上沿、左沿截住；3) 取景参照：取约 5.75 秒的侧转和约 8.21 秒的回望作为两个取景参照（侧转时近眼移到画幅中部略偏右，回望时两眼连线略趋水平）；转头时脸在画框内自然偏移，鼻尖从右半部向右缘靠近、回转后再向画幅中部收回；4) 首帧锁脸：用首帧锁定同一张脸的骨相、眼距、眉形、鼻形、唇形和原有小痣；痣固定在皮肤同一位置，随脸颊转动进出裁切边缘；5) 肤质与光线：皮肤偏白、鼻尖/近侧面颊/下眼睑带很淡的粉色，额头与面颊有细密毛孔和浅浅肤色起伏，毛孔和浅色斑点随表面转动和受光改变可见程度；采用画面左前上方大面积柔光，接近阴天窗边的室内自然光；6) 动作幅度要小：全片动作依次发生在眼珠、眼皮、头部和嘴角——先看向镜头附近、视线移向画面右侧、闭眼片刻、慢慢转成更侧的角度、目光由低处抬向右上方、脸转回、视线短暂落回镜头附近、最后在一次眨眼和移目的余势里切断；嘴部全程闭口，唇缝少量变化只来自正常呼吸、合唇轻微压力和嘴角松紧，嘴部变化晚于视线变化、小于眼睑开合；7) 背景：上部暗灰绿色墙面、约 65% 高度以下为近黑色平面，固定背景始终维持同一位置和透视。
+- 什么时候用 / 常见坑：写真人质感面部特写、近景特写提示词时套用；本条为回复帖（父帖为同一提示词跑 Grok/豆包/千问/元宝的横向对比，豆包因违规内容未出片）；浏览器报告"逐秒时序 0.00–1.50/4.04/5.88/6.42/6.80/7.60/8.50"与"面部占画幅 64%–72%、鼻尖 x=50% y=57%"在 API 原文未见，已按原文（仅 5.75 秒侧转、8.21 秒回望两个取景参照）纠正，未采用未核实数字。
+
+**适用场景**：做真人质感特写、口播近景、面部特写视频的人。
+
+**怎么用它搞钱**：真人质感特写商单 / 面部特写提示词代做。
+
+**来源**：[@gulu_0928](https://x.com/gulu_0928/status/2125753330240741874) · 2026-11-26
+
+### @ReignSwords Muse 人像视频五段式填空模板：不要什么比要什么重要
+
+**核心提炼**
+- 解决什么问题：3500 词的人像提示词太长没法抄——把骨架抽出来压成 5 段填空版，照着填就能用。
+- 干货要点：1) 五段填空：人物（[年龄]岁[气质]，五官[特点]，眼神有内容，不要网红感）／皮肤（毛孔、唇纹、碎发写进去，越具体越不像 AI，千万别写"完美肌肤"）／场景（[车展/街头/咖啡馆]，背景虚化，别让它抢脸）／光线（[正前偏侧上方]打过来，留一半阴影，平光最出塑料感）／运镜（超近距离怼脸开场，慢推＋轻微手持呼吸感，别乱晃）；2) 再加一行负面清单：塑料皮、过度磨皮、网红脸、五官变形、字幕、水印；3) 结论：生人像视频拼的不是词多，是"不要什么"写得够不够狠；4) 成本参考（作者说法）：Muse 单次最长 20 秒、提示词上限 4000 字、每秒 0.037 美元、失败不扣费，20 秒试一次不到 1 美元；5) 来源说明：模板拆自一条 41.9 万浏览、3584 收藏的 3500 词 Muse 人像提示词帖，作者自述"一个字都没抄"、只抽骨架。
+- 什么时候用 / 常见坑：写 Muse 人像视频提示词、长提示词不知从何下手时直接填空；浏览器报告"首帧图比多写 500 词管用"在 API 原文未见，已删去不采用。
+
+**适用场景**：做 AI 人像视频、Muse 用户。
+
+**怎么用它搞钱**：人像视频商单 / 提示词模板教学。
+
+**来源**：[@ReignSwords](https://x.com/ReignSwords/status/2125755915244908670) · 2026-11-26
+
+### @iamzvai 《花海圣光》Seedance 2.5 完整提示词：总控＋分段时序＋Emissive 光学管线
+
+**核心提炼**
+- 解决什么问题：CG 奇幻大片提示词怎么写：总控、光效管线、分段时序、镜头参数一次写全的结构。
+- 干货要点：1) 结构三层：→→；2) 总控：16:9 院线级高清 3D 唯美 CG 电影过场质感，虚幻 5 电影级光追渲染，变形宽银幕镜头自然光学畸变与奶油般浅景深，高曝光空气感乳白柔雾与 1/4 黑柔滤镜高光溢出，通透十字星芒逆光耀斑，全程 24fps 电影帧率与真实物理运动模糊；全片严格单图锚定 @图1 的 3D 唯美角色建模骨相、五官比例、发色、发型与 JRPG 轻甲战裙剪裁，发色自始至终绝对恒定不变，严禁转为实拍真人质感、粗糙麻布材质或 2D 扁平动画；3) Emissive 光三层：中心高光凝练、过渡层通透、外缘柔雾弥散且绝不污染主体面部与背景层次；Afterglow 余辉滞留：分层衰减精确管控光迹浓度与边缘消散，滞留微粒随自然气流缓慢飘散；高光折射仅作用于环境空间、整体剪影、发丝轮廓、披风衣摆外缘与空气微尘；4) 分段时序 0–10 秒：0–2 秒 50mm 变形镜头低位中近景起幅（视线骤然抬起直视天际、双手胸前合十向两侧拉开、指缝透出暖金色 Emissive 三层控光核心）／2–4 秒镜头匀速后拉并大幅度向左弧形环绕、拉展至 28mm 宏大广角全景（七道半透明镂空几何光柱阵列破土升空、丁达尔光柱）／4–6 秒机位沿花海低空快速向前弧形推轨（几何光柱表面精密光学符环沿轴线高速错位自转、透明晶羽沿螺旋气流环绕升腾）／6–8 秒镜头随升腾光羽急剧仰摇加速推进（单手高举指尖微点、七道光柱同步释放透明光晕涟漪扫过花海与云海）／8–10 秒镜头平滑回拉至中景稳稳收住惯性（双臂垂落收招、光柱与光羽进入 Afterglow 余辉滞留、十字星芒耀斑点亮云缘、静立花海中央定格）；5) 制作信息：图片 midjourney 8.2、视频 Seedance 2.5 1080p；音效：宏大管弦圣咏和弦铺底，衔接几何光柱升空低频共鸣、万千光羽振颤风声与柔和余韵。
+- 什么时候用 / 常见坑：写 CG 奇幻/光效大片提示词、要"总控＋分段时序＋光学管线"结构时套用；浏览器报告"2–4 秒 28mm 升格俯拍"在 API 原文未见，已按原文（后拉＋左弧形环绕、28mm 广角全景）纠正。
+
+**适用场景**：做 CG 奇幻、光效大片、Seedance 2.5 用户。
+
+**怎么用它搞钱**：奇幻短片商单 / 光效提示词代做。
+
+**来源**：[@iamzvai](https://x.com/iamzvai/status/2125756428124086656) · 2026-11-26
+
 ## 收录标准
 
 - 来源：X 博主实战分享（原帖 / 评论区 / 引用链）及 GitHub 高星项目
@@ -1443,6 +1703,7 @@
 
 ## 更新日志
 
+- 2026-11-26：早档新增 20 条（X 16 条：@neo_cn 口型同步 11-13 22:01／@john87445528 镜子 30 秒 11-14 08:00／@KOF97AI 伪纪录恐怖 11-14 22:38／@FootballAnt247 呼吸肩膀 11-16 08:36／@KOF97AI 微缩奇幻 11-24 08:45／@APIfinder_AI 别堆形容词 11-25 10:10／@realJustinSoong 多图引用 11-25 20:27／@AITube_App 提示词分级 11-25 22:04／@PixelAigc MiniMax H3 对白短剧 11-25 23:51／@Zizaiaiai 服装造型 Article 11-26 00:09／@sammy_x_7 生成前五问 11-26 03:00／@nanyuan0412 MAGI-2 六段式 Article 11-26 07:16／@AI_DVD6 台词 25 字 11-26 08:16／@gulu_0928 9 秒面部特写 11-26 08:47／@ReignSwords Muse 五段式 11-26 08:57／@iamzvai 花海圣光 11-26 09:00；GitHub 4 个：robonuggets/seedance-skill 112★ 暂无 LICENSE、alchaincyf/seedance-skill 71★ MIT、LeoYeAI/seedance-skills 55★ MIT、gracech0322-cmd/promptlab-image-video-to-prompt 58★ MIT，star 与更新时间均为当日 GitHub API 实测，README 逐个读过确认干货；16 帖正文与时间戳均经 fxtwitter API 逐条直读核验（sammy_x_7 串 2/7–7/7 经 live browser 逐条直读核验，nanyuan0412/Zizaiaiai/APIfinder_AI 三篇 Article 全文已读）；浏览器报告偏差已按 API 原文纠正（john87445528 镜中替身慢半拍、@img1 锁门口四怪；KOF97AI 伪纪录为 26mm/1080p 30fps 而非 35mm/4K 24fps；APIfinder_AI 首尾帧为走廊/门；AITube_App 分级例句以配图 alt 文本为准；Zizaiaiai 为 8 种写法＋4 个更稳写法＋固定顺序；sammy_x_7“三类常错”不存在；nanyuan0412 案例 04/07 按原文；gulu_0928 逐秒时序与面部占比数字未核实已删；ReignSwords“首帧图 500 词”未核实已删；iamzvai 2–4 秒为后拉＋左弧环绕 28mm 广角）；16 组关键词×Latest＋25 位作者时间线抽查，登录态正常、全程只读无互动、未遇真人验证；未查完如实注明：作者抽查为 X 搜索 from: 批量查询而非 13 天完整时间线、关键词覆盖 tops＋11-18 至 11-21 一个中段切片、低浏览长尾帖可能漏收；另刷新 31 个老条目 star（28 个有变：prompt-optimizer 41349→42501、PromptEnhancer 3805→3809、seedance2-skill 4469→4581、img-prompt 370→375、awesome-seedance-2.5 267→275、ai-video-generator-claude 473→496、seedance-prompt 337→345、cinematic-video-prompt-skill 185→208、vibe-creating-skill 162→168、cinematic-video-prompt-engineer-skill 148→155、kling-ai-prompt-generator 36→38、video-prompting-skill 190→199、awesome-ai-video-prompts 89→92、facial-expression-prompting 44→47、vox-style-ai-video-prompts 26→27、smy-seedance-storyboard 242→273、ai-manju-skills 775→1041、seedance-prompt-skill 2998→3031、ecom-video-seedance-prompt 125→137、awesome-seedance-prompts(HuyLe82US) 72→73、video-prompt-reverse(LunarXuan) 70→74、video-prompt-reverse-engineer 31→40、seedance-prompts-zh 23→25、muse-video-prompt-skill 23→284、h3-seedance-prompt 23→25、seedance-prompts-skill 21→22、seedance-viral-forge 21→22、marsoyang1/awesome-seedance-prompts 35→37；fpv-immersive-video-prompting 96、reverse-video-prompt 63、AI-Video-Prompt 35 未变）；暂缓/排除：luozhilzh/video-prompt-reverse 已在复制爆款库收录；Natan-Asrat/n8n_ai_video_generator 47★ 类目漂移；Yunwuxin-666/Wuxin-Film-Skill 23★ 类目漂移且无 license；Susanzz101 19★、orangeai158 17★、rich5000 20★ 未过 star>20 线；10291124jcjc-dotcom/cleopatra-modern-life 55★ 单项目工作流继续暂缓；X 侧排除付费合作帖、重复方法帖、单图提示词截图、无方法纯工具/成本帖、非视频提示词与单句观点帖；GitHub 文档关键词 `prompt optimizer video` 仅 0★、`video prompt engineering` 最高 12★ 均未达线，改用补充关键词命中），共 128 个条目
 - 2026-11-13：晚档新增 21 条（X 21 条：@TanLuAI 游乐场丧尸 30 秒完整提示词 15:06／@XiyangSunA 提示词与参考帧留在片段上 16:18／@realJustinSoong 参考素材按名字点名 16:24／@lugeweb3 ChatGPT/Claude 写 md＋Muse 生成 16:34／@neo_cn 先定参考图当锚 17:00／@xiayitiaoAI 文戏反应镜头 17:07／@ponyodong 口述提示词 Article 17:15／@Eileeness160708 MV 先定音轨 Article 第 5 节 17:21／@realJustinSoong Kling 4.0 上限 10000 字符 17:24／@neo_cn 2–3 秒一切 17:59／@FootballAnt247 哭戏拆动作序列 18:22／@neo_cn 走路脚踩实 18:56／@JustLikeBit 两张照片换五套通勤装 19:16／@woleswoosh 只重拍问题镜头 19:30／@learnwithcheer Flash 草稿锁定提示词 20:27／@woleswoosh 复刻先抽帧对比 20:40／@JacksAISites Gemini 提示词链路拆解 20:50／@neo_cn 转场锁死场景词 20:58／@Romalkakar1 Blender 机位动画当视频参考 21:01／@xy8590042849845《铳火孤城》二次拆解三套方法 21:13／@FootballAnt247 哭戏只留一镜特写 21:24；21 帖正文与时间戳均经 fxtwitter API 逐条直读核验，TanLuAI 自回帖完整提示词、ponyodong 与 Eileeness 两篇 Article 全文已读；浏览器报告一处偏差已按 API 原文纠正（@xy8590042849845 方法一"跑 14 条视频只要 1 分钟、2.5 积分/秒"原文无此内容，以 API 原文"样片模式跑 15 秒（480P / 9:16 只需 300 积分）"为准）；12 组关键词×Latest＋8 位作者时间线抽查，登录态正常、全程只读无互动、未遇真人验证；未查完如实注明："视频提示词""AI 视频提示词""首帧提示词""提示词模板""video prompt"几组未严格翻到 6 小时边界，中间段可能有漏网，尤其"视频提示词"泛搜后段；作者抽查只看了当日搜索顶部，未逐条翻各作者全天时间线到 15:00，也未逐条翻命中帖的全部评论区；@realJustinSoong 两条自回与 @XiyangSunA 同串自回的精确分钟未逐条核对，已标约数；外部链接内容未打开核对；收集截至 21:26；去重／排除：@neo_cn 19:56"先写不要什么"与库内 @neo_cn 四则"否定词具体化"同方法不重复计、@LumingG26987 即梦视频复刻结论帖无具体提示词文本不计入、单条提示词晒图/工具推广/二手转述旧帖按宁缺毋滥剔除），共 108 个条目
 
 - 2026-11-13：午档新增 13 条（X 13 条：@swordBluesy 首帧生视频长文 11:49／@neo_cn 运镜动作指令 09:07／@665162 即梦动效工作室 09:23／@daodao166888 地图灾难频道全套提示词模板 13:05／@AI_DVD6 火柴人母指令 Article 11-12 22:08（推广帖 11-13 12:30）／@aiwaremax garden-skills 12:46（ConardLi/garden-skills 15047★ MIT，GitHub API 当日实测）／@aiwaremax HyperFrames 13:50（heygen-com/hyperframes 83574★ Apache-2.0，GitHub API 当日实测）／@ponyodong Seedance 2.5 全能参考 480p→720p 12:33／@TammyBuilds 首尾帧接龙防服饰漂移 14:09／@neo_cn 多人同框脸串先定主次 14:58／@Luejinlynn 尺寸锚定法＋Seedance 2.5 成本 14:59／@Zizaiaiai 声音提示词 10 写法＋3 模板 Article 11-12 21:11／@neo_cn 音效分层加 11-12 22:03；13 帖正文与时间戳均经 fxtwitter API 逐条直读核验，Zizaiaiai、AI_DVD6、aiwaremax 两篇 Article 全文已读；浏览器报告一处偏差已按 API 原文纠正（Zizaiaiai 声音提示词 10 个写法以 Article 原文为准：环境音/动作音效/配乐/对白/口型/旁白和口播/多人对话/声画同步/静音和留白/不要的声音，浏览器版"情绪/节奏/距离/质感/空间感/层次感"原文无此内容不采用）；14 组关键词×Latest＋8 位作者时间线抽查，登录态正常、全程只读无互动、未遇真人验证；未查完如实注明："视频提示词"宽泛词 Latest 流只向下翻到约 1 小时前的帖子、未逐条翻完至 08:30，Runway 提示词未单独搜，AI_DVD6 母指令代码块经 fxtwitter API 全文补读，11-12 晚间补查只覆盖关键词与作者时间线中出现的帖子；去重／排除：@FootballAnt247 短剧拆分镜 4 工具小清单（工具取舍清单、方法点较少，ai-manju-skills 库内已有）、@JerryLuBing 转述 11-05 @EianLu 旧文摘要（二手转述不收）、@HaStrive 分镜关键帧回复 08:20（比窗口早 10 分钟）、@Soranlan／@nima2qisi2 单条提示词晒图、@Crypto_hedyEth 提示词只在视频内无文字版、@CY160909 MiniMaxDirector 方法较浅、@XiTalking 与命中 5 同源、@bitmeowAI 11-12 16:06 在补查窗口外），共 87 个条目
